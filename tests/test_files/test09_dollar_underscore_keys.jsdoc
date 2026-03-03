@@ -1,0 +1,6 @@
+{
+  _private: "yes",
+  $cost: 9.99,
+  __dunder__: "python vibes",
+  normal_key_99: true
+}

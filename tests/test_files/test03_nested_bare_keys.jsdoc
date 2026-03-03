@@ -1,0 +1,20 @@
+{
+  characters: {
+    hero: {
+      name: "Kael",
+      stats: {
+        str: 10,
+        dex: 14,
+        wis: 8
+      }
+    },
+    villain: {
+      name: "Morrax",
+      stats: {
+        str: 16,
+        dex: 9,
+        wis: 12
+      }
+    }
+  }
+}

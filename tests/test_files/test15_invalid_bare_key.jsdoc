@@ -1,0 +1,4 @@
+{
+  valid_key: "ok",
+  invalid key: "should fail"
+}

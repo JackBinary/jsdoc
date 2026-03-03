@@ -1,0 +1,16 @@
+{
+  // top comment
+  name: "Bob", // inline comment
+  /* block comment */
+  age: 25,
+  /*
+   * multi-line
+   * comment
+   */
+  items: [
+    "item1", // comment in array
+    "item2"
+  ],
+  // final comment
+  active: true
+}

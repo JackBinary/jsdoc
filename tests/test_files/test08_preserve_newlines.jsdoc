@@ -1,0 +1,8 @@
+{
+  poem: """
+    roses are red
+    violets are blue
+    this parser is cool
+    and so are you
+  """
+}

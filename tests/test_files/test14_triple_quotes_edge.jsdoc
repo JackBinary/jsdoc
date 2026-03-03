@@ -1,0 +1,14 @@
+{
+  multiline: """
+    This has
+    multiple lines
+    and // not a comment
+    and /* not a comment */
+  """,
+  with_quotes: """
+    She said "hello"
+    and 'goodbye'
+  """,
+  empty: """""",
+  single_line: """no newlines"""
+}

@@ -1,0 +1,20 @@
+{
+  level1: {
+    level2: {
+      level3: {
+        level4: {
+          deep: "value"
+        }
+      }
+    }
+  },
+  array: [
+    {
+      nested: [
+        {
+          deep: "array value"
+        }
+      ]
+    }
+  ]
+}

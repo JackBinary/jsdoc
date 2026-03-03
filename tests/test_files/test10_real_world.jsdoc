@@ -1,0 +1,58 @@
+{
+  // ==================
+  // TECHNIQUE DATABASE
+  // ==================
+
+  "Battle in the Mind": {
+    rank: "2",
+    type: "Combat",
+    approach: "Fortune",
+    skill: "",
+    flavor: """
+      An elite who has survived enough engagements learns to recognize
+      the signals an opponent does not intend to reveal.
+    """,
+    description: """
+      <h3>Activation:</h3>
+      <p>When you make an Initiative check for a duel using your
+      Fortune Approach, you may spend (op) in the following way:</p>
+      <ul>
+        <li><strong>Fortune (op):</strong> Name two approaches.</li>
+        <li><strong>Fortune (op)+:</strong> Choose a technique category.</li>
+      </ul>
+    """
+  },
+
+  /*
+   * Quick Draw is a simple rank 1 technique
+   * that every gunslinger should know.
+   */
+  "Quick Draw": {
+    rank: "1",
+    type: "Combat",
+    approach: "Vigor",
+    skill: "",
+    flavor: "No hesitation. No second thoughts. Just draw.",
+    description: """
+      <h3>Activation:</h3>
+      <p>As a free action at the start of your turn, draw a weapon.</p>
+    """
+  },
+
+  // Utility techniques go here
+  "Field Medic": {
+    rank: "1",
+    type: "Utility",
+    approach: "Reason",
+    skill: "Medicine",
+    flavor: """
+      A steady hand and a cool head are worth more
+      than any miracle drug in the field.
+    """,
+    description: """
+      <h3>Activation:</h3>
+      <p>Spend an action to stabilize an adjacent wounded ally.
+      Roll <strong>Reason + Medicine</strong>.</p>
+    """
+  }
+}

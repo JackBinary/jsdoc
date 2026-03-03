@@ -1,0 +1,6 @@
+{
+  "empty": """""",
+  "just_spaces": """     """,
+  "one_word": """hello""",
+  "one_line": """this has no newlines at all"""
+}

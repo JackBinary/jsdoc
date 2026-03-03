@@ -1,0 +1,15 @@
+{
+  // comment before first key
+  name: "test",
+  /* multi-line
+     comment */
+  value: 42, // inline comment
+  array: [
+    "item1", // comment in array
+    "item2"
+  ],
+  obj: {
+    // comment in object
+    key: "value"
+  }
+}

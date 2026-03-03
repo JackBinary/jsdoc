@@ -1,0 +1,14 @@
+{
+  // top-level comment
+
+  /*
+   * Block comment with
+   * multiple lines
+   */
+
+  name: "test", // inline after value
+
+  // orphan comment between keys
+
+  value: 42 // trailing
+}

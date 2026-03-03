@@ -1,0 +1,19 @@
+{
+  tags: ["fire", "ice", "lightning"],
+  techniques: [
+    {
+      name: "Fireball",
+      desc: """
+        <p>Hurl a ball of <strong>fire</strong>
+        at your enemies.</p>
+      """
+    },
+    {
+      name: "Frost Nova",
+      desc: """
+        <p>Freeze all enemies within
+        a 10m radius.</p>
+      """
+    }
+  ]
+}

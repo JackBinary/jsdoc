@@ -1,0 +1,10 @@
+{
+  _underscore: "yes",
+  $dollar: "yes",
+  key123: "numbers",
+  camelCase: "mixed",
+  PascalCase: "upper",
+  __dunder__: "double",
+  _private_key: "private",
+  $special: 99.99
+}

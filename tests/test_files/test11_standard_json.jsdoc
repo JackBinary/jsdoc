@@ -1,0 +1,8 @@
+{
+  "name": "Alice",
+  "age": 30,
+  "items": ["sword", "shield"],
+  "nested": {
+    "key": "value"
+  }
+}
