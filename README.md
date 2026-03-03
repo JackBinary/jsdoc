@@ -1,4 +1,7 @@
 # jsdoc
+[![Tests](https://github.com/JackBinary/jsdoc/actions/workflows/tests.yml/badge.svg)](https://github.com/JackBinary/jsdoc/actions/workflows/tests.yml)
+[![Security](https://github.com/JackBinary/jsdoc/actions/workflows/security.yml/badge.svg)](https://github.com/JackBinary/jsdoc/actions/workflows/security.yml)
+[![Build](https://github.com/JackBinary/jsdoc/actions/workflows/build.yml/badge.svg)](https://github.com/JackBinary/jsdoc/actions/workflows/build.yml)
 
 `jsdoc` is a Python parser for **JSON with comments and docstrings**.
 
