@@ -10,10 +10,10 @@ readme = "README.md"
 license = {text = "MIT"}
 requires-python = ">=3.6"
 authors = [
-    {name = "Your Name", email = "your.email@example.com"},
+    {name = "JackBinary", email = "jmg.exe@gmail.com"},
 ]
 maintainers = [
-    {name = "Your Name", email = "your.email@example.com"},
+    {name = "JackBinary", email = "jmg.exe@gmail.com"},
 ]
 keywords = ["json", "comments", "parser", "jsdoc"]
 classifiers = [
@@ -33,9 +33,9 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/yourusername/jsdoc"
-Repository = "https://github.com/yourusername/jsdoc"
-Issues = "https://github.com/yourusername/jsdoc/issues"
+Homepage = "https://github.com/JackBinary/jsdoc"
+Repository = "https://github.com/JackBinary/jsdoc"
+Issues = "https://github.com/JackBinary/jsdoc/issues"
 
 [tool.setuptools]
 packages = ["jsdoc"]
